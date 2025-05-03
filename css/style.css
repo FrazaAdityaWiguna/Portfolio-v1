@@ -1192,4 +1192,12 @@ body.dark .shadow-dark {
     flex: 0 0 100%;
     max-width: 100%;
   }
+
+  .aside.open {
+    width: 100%;
+  }
+
+  .aside.open .nav-toggler.open {
+    left: 80%;
+  }
 }
